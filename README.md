@@ -259,11 +259,3 @@ for fold, (train_idx, val_idx) in enumerate(skf.split(X, y)):
 ```
 
 
-
----
-
-**⭐ If this repository helped you, please give it a star!**
-
-**🔄 Found an issue? Please report it so we can improve!**
-
-**💡 Have a better approach? We'd love to hear from you!**
