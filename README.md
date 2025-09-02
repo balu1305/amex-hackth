@@ -258,56 +258,7 @@ for fold, (train_idx, val_idx) in enumerate(skf.split(X, y)):
     pass
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-insight`)
-3. Commit your changes (`git commit -m 'Add employee psychology insight'`)
-4. Push to the branch (`git push origin feature/amazing-insight`)
-5. Open a Pull Request
-
-### Contribution Areas
-- New employee psychology patterns
-- Overfitting prevention techniques
-- Feature engineering methods
-- Model interpretability tools
-
-## 📞 Contact & Support
-
-**Author**: T Vijaya Balaji  
-**Email**: [Your Email]  
-**LinkedIn**: [Your LinkedIn]  
-**Competition**: AMEX Campus Challenge Round 2
-
-### Getting Help
-- Open an issue for bugs or questions
-- Check existing issues for common problems
-- Review methodology.md for detailed explanations
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **AMEX Campus Challenge** organizers for the competition
-- **LightGBM** team for the excellent gradient boosting framework
-- **Pandas** community for data processing tools
-- **Employee Psychology Research** that inspired our approach
-
-## 📊 Performance Timeline
-
-```
-Initial Attempt: 0.154 AUC (Poor)
-↓ 
-Target Fix: Identified binary string issue
-↓
-Psychology Approach: Employee behavior modeling  
-↓
-Overfitting Prevention: Conservative parameters
-↓
-Final Result: 0.8474 AUC (Excellent generalization)
-```
 
 ---
 
